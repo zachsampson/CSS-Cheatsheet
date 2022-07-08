@@ -3,6 +3,9 @@ body {
     color: rgb(25, 24, 30);
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
+div {
+    width: 900px;
+}
 h1 {
     text-transform: uppercase;
 }
