@@ -13,7 +13,7 @@ h2 {
     font-weight: lighter;
     font-size: 1.4em;
     text-transform: uppercase;
-    color:rgb(99, 72, 39)
+    color:rgb(99, 72, 39);
 }
 table {
     border:rgb(99, 72, 39) 2px solid;
@@ -26,7 +26,7 @@ thead {
 }
 th {
     padding: 6px;
-    color: rgb(99, 72, 39)
+    color: rgb(99, 72, 39);
 }
 tbody {
     font-size: .8em;
@@ -43,8 +43,8 @@ td {
     font-family: "Lucida Console", Courier, monospace;
     width: 150px;
     padding-left: 10px;
-    color: rgba(0, 59, 195, 0.995)
+    color: rgba(0, 59, 195, 0.995);
 }
 .codecolor {
-    color:brown
+    color:brown;
 }
